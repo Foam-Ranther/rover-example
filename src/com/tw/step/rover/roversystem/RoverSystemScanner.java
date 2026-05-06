@@ -48,4 +48,5 @@ public class RoverSystemScanner {
     public Direction scanDirection() {
         return Direction.valueOf(this.consume());
     }
+
 }

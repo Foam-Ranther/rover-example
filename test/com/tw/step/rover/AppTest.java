@@ -22,4 +22,5 @@ class AppTest {
 
         assertEquals("-4 6 N" + System.lineSeparator(), output.toString());
     }
+
 }
